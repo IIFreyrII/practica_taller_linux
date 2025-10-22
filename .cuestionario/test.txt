@@ -71,6 +71,8 @@ los grupos, y escritura para otros. Del mismo modo, ejecuten el comando para rem
 
 34.- ¿Para qué sirve git?
 
+35.- ¿Qué es un checksum y para qué sirve?
+
 ################################################################################################################
 
 Son todas las preguntas que se me ocurrieron, les deseo suerte!
