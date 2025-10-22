@@ -1,1 +1,76 @@
 Este pequeño quiz tiene el propósito de reforzar lo que hemos visto hasta ahora durante el transcurso del taller.
+
+1.- ¿Cómo se llama el fundador de Linux?
+
+2.- ¿Qué gestores de paquetes utilizan Debian, Fedora y Arch?
+
+3.- ¿Con qué comando puedo ver el directorio en el que me encuentro?
+
+4.- ¿Con qué comando puedo ver quién soy?
+
+5.- ¿Qué hace el siguiente comando? echo Hola mundo.txt
+
+6.- ¿Qué pasaría si yo en este directorio ejecuto el comando mkdir taller/de/linux/?
+
+7.- En base a la anterior pregunta ¿Cómo podría lograr que funcione?
+
+8.- ¿Cómo puedo acceder a un archivo o directorio cuyo nombre está espaciado? Ejemplo Base de datos/ | Apuntes de clase.txt
+
+9.- Escribe el comando para dar permisos de escritura, lectura y ejecución al usuario, lectura y ejecución para
+los grupos, y escritura para otros. Del mismo modo, ejecuten el comando para remover los mismos permisos.
+
+10.- Escribe el comando para cambiar de propietario un archivo o directorio a root
+
+11.- ¿Qué editores de texto fueron mencionados en el taller?
+
+12.- ¿Existe alguna manera de lograr ejecutar archivos .exe en linux? De ser así ¿Cuál es?
+
+13.- ¿Qué gestores de arranque vimos durante el taller? ¿Cuál es el mejor de ellos?
+
+14.- ¿Qué distribución de linux compartió la persona que impartió el taller?
+
+15.- ¿Cuáles son los dos compositores gráficos/protocolos que existen en linux?
+
+16.- Si fueses a recomendar una distribución de linux a alguien que quiere probar el sistema
+¿Qué tendrías que indagar antes de hacerlo?
+
+17.- ¿Se puede tener más de un SO(Sistema Operativo) en un mismo disco duro o ssd?
+
+18.- ¿Existe la posibilidad de que al realizar dualboot alguno de los SO elimine la partición EFI? De ser así
+¿Qué pasaría? 
+
+19.- ¿En qué directorio se encuentra la madre de todo el SO?
+
+20.- ¿En qué directorio se encuentran los usuarios?
+
+21.- ¿En qué directorios se encuentran los binarios esenciales y los esenciales del sistema?
+
+22.- ¿Qué hace el comando rm -rf /?
+
+23.- ¿Cuáles son las dos particiones que se deben crear siempre y cuál es la partición opcional recomendable?
+
+24.- ¿Qué hace el comando mv Downloads/ Descargas/?
+
+25.- ¿Qué es una snapshot? ¿Para qué sirve?
+
+26.- ¿Cuáles son los entornos para máquinas virtuales que vimos durante el taller?
+
+27.- ¿Qué sistemas de archivos puede utilizar un sistema linux para escritorio?
+
+28.- ¿Cómo puedo ver la versión de un paquete instalado?
+
+29.- ¿Cómo puedo ejecutar un .py desde la terminal?
+
+30.- ¿Qué es WSL y para qué sirve?
+
+31.- ¿En dónde puedo el path?
+
+32.- ¿Cómo puedo leer el path?
+
+33.- ¿Qué es git?
+
+34.- ¿Para qué sirve git?
+
+################################################################################################################
+
+Son todas las preguntas que se me ocurrieron, les deseo suerte!
