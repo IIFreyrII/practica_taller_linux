@@ -20,7 +20,7 @@ durante las fechas 20-22/10/2025 en el Instituto Tecnológico Nacional de Méxic
 
 <p>Si olvidan algunos parámetros para indicar alguna acción específica, recuerden hacer uso del comando man [option]
 u [option] --help. Si no logran encontrar el parámetro que necesitan, pueden utilizar un navegador para buscar los usos
-del comando y de esta manera conseguir el resultado requerido.Se deberán modificar los README.txt con un editor de texto
+del comando y de esta manera conseguir el resultado requerido. Se deberán modificar los README.txt con un editor de texto
 y ahí escribirán los comandos que utilizaron para lograr lo que se pide, de manera opcional pueden adjuntar una
 captura de pantalla en lugar de modificar el archivo o adjuntarla y también modificar el archivo. 
 </p>
