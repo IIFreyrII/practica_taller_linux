@@ -63,7 +63,7 @@ los grupos, y escritura para otros. Del mismo modo, ejecuten el comando para rem
 
 30.- ¿Qué es WSL y para qué sirve?
 
-31.- ¿En dónde puedo el path?
+31.- ¿En dónde puedo encontrar el path?
 
 32.- ¿Cómo puedo leer el path?
 

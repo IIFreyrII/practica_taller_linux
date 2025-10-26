@@ -22,8 +22,9 @@ durante las fechas 20-22/10/2025 en el Instituto Tecnológico Nacional de Méxic
 u [option] --help. Si no logran encontrar el parámetro que necesitan, pueden utilizar un navegador para buscar los usos
 del comando y de esta manera conseguir el resultado requerido. Se deberán modificar los README.txt con un editor de texto
 y ahí escribirán los comandos que utilizaron para lograr lo que se pide, de manera opcional pueden adjuntar una
-captura de pantalla en lugar de modificar el archivo o adjuntarla y también modificar el archivo. 
-</p>
+captura de pantalla en lugar de modificar el archivo o adjuntarla y también modificar el archivo. Los ejercicios
+se adjuntan mediante un zip debido a que sin esta compresión, los ejercicios no se suben correctamente a GitHub.
+Recuerden que para la descompresión se utiliza el comando unzip seguido del nombre del zip.</p>
 
 <h2><b>Queda prohibido el uso de IA</b></h2>
 
