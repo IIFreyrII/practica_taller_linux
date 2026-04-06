@@ -1,4 +1,4 @@
-<h1> Pŕactica del taller de introducción a GNU Linux</h1>
+<h1> Práctica del taller de introducción a GNU Linux</h1>
 
 <p>Este repositorio tiene el propósito de ser clonado por las personas inscritas al taller que fue impartido 
 durante las fechas 20-22/10/2025 en el Instituto Tecnológico Nacional de México campus Mérida.</p>
